@@ -1,1 +1,3 @@
-"# music-market-patika" 
+# Patika.dev
+
+Bootstrap ödev ✅
