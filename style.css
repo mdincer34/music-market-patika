@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+}
+body{
+    background-color: #E9ECEF;
+}
+nav{
+    background-color: #2E4053;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+nav .logo{
+    color:blue;
+    margin-left: 20px;
+    font-size: 25px;
+    color: #fff;
+}
+nav .navigation a{
+  margin-left: 20px;
+  padding: 10px;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+  transition: all .5s;
+
+}
+nav .navigation a:hover{
+    background-color:#fff;
+    color: #2E4053;
+    
+}
+main{
+    text-align: center;
+}
+ul{
+    list-style-position: inside;
+}
+.bt{
+   float: left;
+   background-color: #808080;
+   font-size: 14px;
+   border-radius: 5px;
+   text-align: center;
+}
+.card-title{
+    text-align: left;
+    font-size: 17px;
+}
+.text h1{
+    text-align: center;
+     color: purple
+}
